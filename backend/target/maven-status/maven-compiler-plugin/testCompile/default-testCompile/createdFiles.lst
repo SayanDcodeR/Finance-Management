@@ -1,0 +1,4 @@
+com\financeapp\service\IncomeServiceTest.class
+com\financeapp\service\ExpenseServiceTest.class
+com\financeapp\service\AuthServiceTest.class
+com\financeapp\service\BudgetServiceTest.class
